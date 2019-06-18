@@ -482,5 +482,4 @@ order: 2
       </section>
     </div>
   </div>
-  {% include esempi/correlati.html %}
 </main>
