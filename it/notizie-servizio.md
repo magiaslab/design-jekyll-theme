@@ -7,7 +7,7 @@ permalink: /it/notizie-servizio
 order: 3
 ---
 
-<main>
+
   <div class="container px-4 my-4">
     <div class="row">
       <div class="col px-lg-4">
@@ -481,4 +481,3 @@ order: 3
       </section>
     </div>
   </div>
-</main>
