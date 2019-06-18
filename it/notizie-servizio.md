@@ -2,7 +2,7 @@
 layout: page
 title: Notizie Servizio
 lang: it
-ref: notice
+ref: notizie
 permalink: /it/notizie-servizio
 order: 3
 ---
