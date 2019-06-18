@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Servizio Comunale
+title: Asilo
 lang: it
 ref: service
-permalink: /it/servizio-comunale
-order: 3
+permalink: /it/asilo
+order: 4
 ---
 
 {% assign section = "servizi" %}
