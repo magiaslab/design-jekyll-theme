@@ -8,7 +8,7 @@ social-card: /assets/images/favicons/social-card.png
 ## Site name
 name:
   en: "A Jekyll theme"
-  it: "Un tema Jekyll"
+  it: "Comune di San Vincenzo"
 
 ## Site description
 description:
@@ -65,5 +65,3 @@ footer-links:
     cookie-policy:
       name: "Cookie Policy"
       url: "/it/cookie-policy"
-
-
