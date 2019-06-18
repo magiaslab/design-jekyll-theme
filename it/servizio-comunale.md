@@ -7,9 +7,6 @@ permalink: /it/asilo
 order: 4
 ---
 
-{% assign section = "servizi" %}
-
-{% include esempi/comuni/header.html %}
 
 <main>
   <div class="container px-4 my-4">
@@ -487,5 +484,3 @@ order: 4
   </div>
   {% include esempi/correlati.html %}
 </main>
-
-{% include esempi/comuni/footer.html %}
