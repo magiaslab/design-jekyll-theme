@@ -86,16 +86,6 @@ order: 3
                   <span class="it-close"></span>Chiudi
                 </button>
               </div>
-              <a class="it-back-button" href="#">
-                <svg class="icon icon-sm icon-primary align-top">
-                  <use
-                    xlink:href="{{
-                      site.baseurl
-                    }}/dist/svg/sprite.svg#it-chevron-left"
-                  ></use>
-                </svg>
-                <span>Torna indietro</span></a
-              >
               <div class="menu-wrapper">
                 <div class="link-list-wrapper menu-link-list">
                   <h3 class="no_toc">Indice della pagina</h3>
@@ -252,12 +242,8 @@ order: 3
             Schiavazzi, l’URP oppure al seguente ufficio:
           </p>
           <div class="card card-teaser shadow p-4 my-5 rounded">
-            <svg class="icon">
-              <use
-                xlink:href="{{ site.baseurl }}/dist/svg/sprite.svg#it-pa"
-              ></use>
-            </svg>
-            <div class="card-body">
+                      
+<div class="card-body">
               <h5 class="card-title">
                 Ufficio Asili Nido
               </h5>
@@ -278,13 +264,6 @@ order: 3
           <h4>Cosa serve</h4>
           <div class="callout">
             <div class="callout-title">
-              <svg class="icon">
-                <use
-                  xlink:href="{{
-                    site.baseurl
-                  }}/dist/svg/sprite.svg#it-info-circle"
-                ></use>
-              </svg>
             </div>
             <ul>
               <li>
@@ -398,12 +377,7 @@ order: 3
             class="card-wrapper card-teaser-wrapper card-teaser-wrapper-equal card-teaser-block-2"
           >
             <div class="card card-teaser shadow p-4">
-              <svg class="icon">
-                <use
-                  xlink:href="{{ site.baseurl }}/dist/svg/sprite.svg#it-clip"
-                ></use>
-              </svg>
-              <div class="card-body">
+                           <div class="card-body">
                 <h5 class="card-title">
                   <a href="#"
                     >Avviso pubblico di iscrizione - Anno educativo 2018/2019</a
@@ -415,12 +389,7 @@ order: 3
               </div>
             </div>
             <div class="card card-teaser shadow p-4">
-              <svg class="icon">
-                <use
-                  xlink:href="{{ site.baseurl }}/dist/svg/sprite.svg#it-clip"
-                ></use>
-              </svg>
-              <div class="card-body">
+                            <div class="card-body">
                 <h5 class="card-title">
                   <a href="#">Guida informativa - Anno 2018/2019 </a>
                 </h5>
@@ -433,11 +402,6 @@ order: 3
               </div>
             </div>
             <div class="card card-teaser shadow p-4">
-              <svg class="icon">
-                <use
-                  xlink:href="{{ site.baseurl }}/dist/svg/sprite.svg#it-clip"
-                ></use>
-              </svg>
               <div class="card-body">
                 <h5 class="card-title">
                   <a href="#">Rette asili nido </a>
@@ -453,13 +417,6 @@ order: 3
           <h4>Ulteriori informazioni</h4>
           <div class="callout">
             <div class="callout-title">
-              <svg class="icon">
-                <use
-                  xlink:href="{{
-                    site.baseurl
-                  }}/dist/svg/sprite.svg#it-info-circle"
-                ></use>
-              </svg>
             </div>
             <p>
               La pubblicazione dell'avviso riguardante le nuove iscrizioni per
