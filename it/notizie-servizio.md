@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Notizie Servizio
+title: Servizio Comunale
 lang: it
-ref: notizie
-permalink: /it/notizie-servizio
-order: 3
+ref: servizio_comunalee
+permalink: /it/servizio-comunale
+order: 2
 ---
 
 
