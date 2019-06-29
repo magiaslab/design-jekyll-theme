@@ -484,4 +484,3 @@ order: 2
   {% include esempi/correlati.html %}
 </main>
 
-{% include esempi/comuni/footer.html %}
