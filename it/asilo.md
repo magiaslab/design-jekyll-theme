@@ -7,12 +7,6 @@ permalink: /it/Asilo
 order: 2
 ---
 
-{% assign section = "servizi" %}
-
-{% include _includes\header\header.html %}
-
-
-
 <main>
   <div class="container px-4 my-4">
     <div class="row">
