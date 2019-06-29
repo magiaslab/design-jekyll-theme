@@ -1,10 +1,9 @@
-
 ---
 layout: page
-title: Notizie Servizio
+title: Iscrizione Asilo
 lang: it
-ref: notizie
-permalink: /it/notizie-servizio
+ref: asilo
+permalink: /it/asilo
 order: 3
 ---
 
