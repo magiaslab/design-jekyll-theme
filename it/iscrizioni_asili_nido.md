@@ -1,4 +1,13 @@
 
+---
+layout: page
+title: Notizie Servizio
+lang: it
+ref: notizie
+permalink: /it/notizie-servizio
+order: 3
+---
+
 
 <!doctype html>
  
