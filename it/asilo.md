@@ -1,6 +1,10 @@
 ---
 layout: base
-title: Template Servizio Comunale
+title: Template Servizio Comunale.
+lang: it
+ref: asilo
+permalink: /it/Asilo
+order: 2
 ---
 
 {% assign section = "servizi" %}
