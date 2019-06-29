@@ -42,7 +42,6 @@ order: 2
         </div>
       </div>
       <div class="col-lg-3 offset-lg-1">
-        {% include esempi/azioni_condividi.html %}
         <div class="mt-4 mb-4">
           <h6><small>Argomenti</small></h6>
           <a href="#"
@@ -481,6 +480,5 @@ order: 2
       </section>
     </div>
   </div>
-  {% include esempi/correlati.html %}
 </main>
 
